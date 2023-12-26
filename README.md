@@ -1,5 +1,6 @@
 # GPT4_API
 Create contents using GPT4 API
+
 Need the openAI key(saved .txt file) in this directory
 <br></br>
 #### mainV2.py : main 코드 파일
