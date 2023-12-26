@@ -1,4 +1,4 @@
-# GPT4_API
+# GPT4.0_API
 Create contents using GPT4 API
 
 Need the openAI key(saved .txt file) in this directory
